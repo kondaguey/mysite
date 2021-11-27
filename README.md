@@ -1,2 +1,1 @@
-# mysite
-css styling practice
+
